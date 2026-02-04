@@ -71,11 +71,7 @@ pip install pillow ollama
 
 The datasets used in these experiments are available on Zenodo:
 
-**Experiment 1 — Accident / Posture Detection**
-👉 [ZENODO LINK — TO BE ADDED]
-
-**Experiment 2 — PPE Compliance Detection**
-👉 [ZENODO LINK — TO BE ADDED]
+👉 [https://doi.org/10.5281/zenodo.18482133](https://doi.org/10.5281/zenodo.18482133)
 
 After downloading, update the dataset paths inside the scripts if necessary.
 
